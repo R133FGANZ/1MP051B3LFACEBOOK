@@ -1,3 +1,8 @@
+#anda recode bijix lu meledak
+#gua buat 3 minggu cok
+#pengertian lah
+#di buatin di recode asw
+
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
 
